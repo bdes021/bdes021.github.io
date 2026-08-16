@@ -56,3 +56,8 @@ Enhancement focused on recurring events, event categories, relational database i
 ## About This Portfolio
 
 The artifacts included in this portfolio were originally created during previous Computer Science courses and later enhanced as part of CS 499. Each enhancement demonstrates how I applied knowledge gained throughout the program to improve the design, efficiency, security, and maintainability of existing software.
+
+
+## Generative AI Acknowledgment
+
+Generative AI tools were used during the development of this ePortfolio to assist with brainstorming, reviewing written content, troubleshooting, and improving organization. All final work was reviewed, edited, and verified before submission.
