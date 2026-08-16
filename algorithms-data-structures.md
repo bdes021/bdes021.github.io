@@ -69,7 +69,7 @@ This enhancement successfully meets course outcomes I planned to demonstrate. It
 
 Enhancing this artifact reinforced the importance of selecting the appropriate data structures and algorithms for a particular problem instead of relying only on basic solutions. Before this project, I understood HashMaps and sorting algorithms primarily from coursework, but applying them to an existing application showed me how they can significantly improve performance and usability. One of the biggest challenges was modifying the original dashboard while keeping all of its existing functionality. Small changes to the CRUD module often affected multiple parts of the application, requiring careful testing and debugging throughout the process. This enhancement demonstrated that improving software is not always about adding new features. In many cases, optimizing existing code with better algorithms and data structures can produce a more efficient, maintainable, and scalable solution.
 
-<a href="https://github.com/bdes021/bdes021.github.io/raw/refs/heads/main/docs/Algorithms_Data_Structures_Narrative.docx"><strong>Download Narrative (Word)</strong></a>
+<a href="https://github.com/bdes021/bdes021.github.io/blob/main/docs/Algorithms%20Data%20Structures%20Narrative.docx?raw=1"><strong>Download Narrative (Word)</strong></a>
 
 ---
 
