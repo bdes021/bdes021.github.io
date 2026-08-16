@@ -29,7 +29,7 @@ For Trakker, I reviewed the original SQLite database and identified opportunitie
 
 ## Code Review Video
 
-<a href="(https://youtu.be/PwC-C_M5vH8)" target="_blank" rel="noopener noreferrer"><strong>Watch My CS 499 Code Review</strong></a>
+<a href="https://youtu.be/PwC-C_M5vH8" target="_blank" rel="noopener noreferrer"><strong>Watch My CS 499 Code Review</strong></a>
 
 The video provides a walkthrough of the original source code, discusses areas identified for improvement, and explains how the planned enhancements align with the five Computer Science program outcomes.
 
