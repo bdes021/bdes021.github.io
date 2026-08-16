@@ -24,6 +24,8 @@ Security is another area that significantly changed how I think about software d
 
 Creating this ePortfolio gave me an opportunity to combine these different areas of computer science into a single representation of my skills. The artifacts below demonstrate my growth across software engineering, algorithms and data structures, database development, and security.
 
+[Download Professional Self-Assessment (Word)](docs/Professional_Self_Assessment.docx)
+
 ---
 
 ## Portfolio
