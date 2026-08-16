@@ -72,7 +72,7 @@ I believe this enhancement successfully meets the course outcomes I planned for.
 
 Enhancing the database taught me that a well-designed database is just as important as the application itself. The original version worked well for storing simple events, but adding recurring events and event categories showed me how quickly a database can become more complex as new features are introduced. I also gained a better understanding of how indexes improve query performance and how foreign keys help maintain relationships between tables. One of the biggest challenges was implementing the recurring event logic. Instead of creating duplicate records for every occurrence, the application needed to determine whether an event should appear on a selected date based on its recurrence pattern. Developing this logic for daily, weekly, monthly, and yearly events required careful planning and testing to make sure each event appeared correctly. Another challenge was updating the database structure without breaking the existing application. Since the application already depended on the original database design, changes to the schema required careful testing to ensure everything continued to work as expected.
 
-[Download Narrative (Word)](docs/Databases_Narrative.docx)
+<a href="https://github.com/bdes021/bdes021.github.io/raw/refs/heads/main/docs/Databases_Narrative.docx"><strong>Download Narrative (Word)</strong></a>
 
 
 ---
