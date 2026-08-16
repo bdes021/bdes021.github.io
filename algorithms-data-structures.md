@@ -19,7 +19,7 @@ The original dashboard successfully retrieved and displayed animal records, but 
 
 The original CRUD `read()` method accepted a MongoDB query and returned all matching documents. The dashboard also retrieved complete MongoDB documents before removing fields that were not needed. While the application supported filtering and table sorting, it did not contain a specialized data structure for quickly locating an animal by its ID.
 
-**[View Original Grazioso Salvare Source Code](algorithms-data-structures/original/)**
+**<a href="https://github.com/bdes021/bdes021.github.io/tree/main/algorithms-data-structures/original" target="_blank" rel="noopener noreferrer"><strong>View Original Grazioso Salvare Source Code</strong></a>**
 
 ## Enhancement
 
@@ -41,7 +41,7 @@ MongoDB indexes were added to commonly searched fields such as animal ID, animal
 
 The enhanced dashboard also includes an Animal ID search feature that uses the HashMap for fast lookups.
 
-**[View Enhanced Grazioso Salvare Source Code](algorithms-data-structures/enhanced/)**
+**<a href="https://github.com/bdes021/bdes021.github.io/tree/main/algorithms-data-structures/enhanced" target="_blank" rel="noopener noreferrer"><strong>View Enhanced Grazioso Salvare Source Code</strong></a>**
 
 ## Skills Demonstrated
 
