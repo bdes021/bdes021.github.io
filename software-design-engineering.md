@@ -17,7 +17,7 @@ The original application included account management, a calendar interface, even
 
 The original version of Trakker successfully performed its required functions, but much of the application logic was handled directly inside the activities. The user interface, navigation, application logic, and database operations were closely connected, which made the application more difficult to maintain and expand.
 
-**[View Original Trakker Source Code](software-design-engineering/original/)**
+**<a href="https://github.com/bdes021/bdes021.github.io/tree/main/software-design-engineering/original" target="_blank" rel="noopener noreferrer"><strong>View Original Trakker Source Code</strong></a>**
 
 ## Enhancement
 
@@ -34,7 +34,7 @@ This structure reduces the amount of responsibility placed on individual activit
 
 I also added an **Android home screen widget** that displays upcoming events without requiring the user to open the main application. The widget retrieves event information through the Repository layer so that it follows the same architecture as the rest of the application.
 
-**[View Enhanced Trakker Source Code](software-design-engineering/enhanced/)**
+**<a href="https://github.com/bdes021/bdes021.github.io/tree/main/software-design-engineering/enhanced" target="_blank" rel="noopener noreferrer"><strong>View Enhanced Trakker Source Code</strong></a>**
 
 ## Skills Demonstrated
 
