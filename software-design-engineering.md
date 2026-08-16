@@ -59,7 +59,7 @@ I believe this enhancement successfully meets a couple of the course outcomes I 
 
 Refactoring Trakker taught me the importance of separating responsibilities within an application. In the original version, the activities handled both the user interface and the database operations. Moving the database logic into a Repository and introducing a ViewModel made the application much easier to understand and maintain. One of the biggest challenges was restructuring the project without breaking the already existing functionality. Since many parts of the application depended on the original structure, even small changes often affected multiple files and caused multiple errors. This required careful testing throughout the refactoring process. Another challenge was implementing the home screen widget. I did not have any Android widget experience prior to this, so I had to learn how widgets communicate with the application and how to update the widget whenever event data changed. This enhancement showed me that good software engineering is not only about adding new features but also about creating an application that is organized, maintainable, and easier to build on in the future.
 
-<a href="https://github.com/bdes021/bdes021.github.io/raw/refs/heads/main/docs/Software_Design_Engineering_Narrative.docx"><strong>Download Narrative (Word)</strong></a>
+<a href="https://github.com/bdes021/bdes021.github.io/blob/main/docs/Software%20Design%20Engineering%20Narrative.docx?raw=1"><strong>Download Narrative (Word)</strong></a>
 
 ---
 
