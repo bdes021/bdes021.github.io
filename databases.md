@@ -21,7 +21,8 @@ While this structure worked for the original application, it did not support mor
 
 The original database code also used a mix of parameterized queries and SQL statements that directly inserted values into query strings, creating an opportunity to improve consistency and security.
 
-**[View Original Trakker Source Code](databases/original/)**
+**<a href="https://github.com/bdes021/bdes021.github.io/tree/main/databases/original" target="_blank" rel="noopener noreferrer"><strong>View Original Trakker Source Code</strong></a>
+**
 
 ## Enhancement
 
@@ -43,7 +44,7 @@ The enhanced database allows Trakker to support more advanced scheduling without
 
 Indexes were added to commonly searched fields to improve query performance as the amount of stored data increases. Parameterized queries and stronger input validation were also used to reduce the risk of SQL injection and prevent invalid data from being stored.
 
-**[View Enhanced Trakker Source Code](databases/enhanced/)**
+**<a href="https://github.com/bdes021/bdes021.github.io/tree/main/databases/enhanced" target="_blank" rel="noopener noreferrer"><strong>View Enhanced Trakker Source Code</strong></a>**
 
 ## Skills Demonstrated
 
